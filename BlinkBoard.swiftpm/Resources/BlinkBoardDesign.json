@@ -1,0 +1,21 @@
+{
+    "rowOne": [
+        "!", "@", "1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "+", "-", "*", "/", "=", "#", "$", "%", "^"
+    ],
+    "rowTwo": [
+        "Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P","&", "(", ")", "[", "]", "{", "}", "\\", "|"
+    ],
+    "rowThree": [
+        "A", "S", "D", "F", "G", "H", "J", "K", "L", ";", ":", "\"", "é", "~"
+    ],
+    "rowFour": [
+        "Z", "X", "C", "V", "B", "N", "M", ",", ".", "<", ">", "?", "`", "'"
+    ],
+    "spaceKeyTitle": "Space",
+    "backspaceKeyTitle": "Backspace",
+    "clearKeyTitle": "Clear",
+    "speakKeyTitle": "Speak",
+    "copyKeyTitle": "Copy",
+    "aboutKeyTitle": "About",
+    "languageTag": "en-US"
+}

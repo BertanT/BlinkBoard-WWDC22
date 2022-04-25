@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CachedManifest</key>
+	<dict>
+		<key>manifestData</key>
+		<data>
+		eyJkZXBlbmRlbmNpZXMiOltdLCJuYW1lIjoiQmxpbmtCb2FyZCIsInBhY2th
+		Z2VLaW5kIjoicm9vdCIsInBsYXRmb3JtcyI6W3sib3B0aW9ucyI6W10sInBs
+		YXRmb3JtTmFtZSI6ImlvcyIsInZlcnNpb24iOiIxNS4yIn1dLCJwcm9kdWN0
+		cyI6W3sibmFtZSI6IkJsaW5rQm9hcmQiLCJzZXR0aW5ncyI6W3siYnVuZGxl
+		SWRlbnRpZmllciI6WyJiZXJ0YW4uQmxpbmtCb2FyZCJdfSx7InRlYW1JZGVu
+		dGlmaWVyIjpbIjRSNlBNRzhYWFkiXX0seyJkaXNwbGF5VmVyc2lvbiI6WyIx
+		LjAiXX0seyJidW5kbGVWZXJzaW9uIjpbIjEiXX0seyJpT1NBcHBJbmZvIjpb
+		eyJhY2NlbnRDb2xvckFzc2V0TmFtZSI6IkFjY2VudENvbG9yIiwiY2FwYWJp
+		bGl0aWVzIjpbXSwiaWNvbkFzc2V0TmFtZSI6IkFwcEljb24iLCJzdXBwb3J0
+		ZWREZXZpY2VGYW1pbGllcyI6WyJwYWQiLCJwaG9uZSJdLCJzdXBwb3J0ZWRJ
+		bnRlcmZhY2VPcmllbnRhdGlvbnMiOlt7InBvcnRyYWl0Ijp7fX0seyJsYW5k
+		c2NhcGVSaWdodCI6e319LHsibGFuZHNjYXBlTGVmdCI6e319LHsicG9ydHJh
+		aXRVcHNpZGVEb3duIjp7ImNvbmRpdGlvbiI6eyJkZXZpY2VGYW1pbGllcyI6
+		WyJwYWQiXX19fV19XX1dLCJ0YXJnZXRzIjpbIkFwcE1vZHVsZSJdLCJ0eXBl
+		Ijp7ImV4ZWN1dGFibGUiOm51bGx9fV0sInRhcmdldE1hcCI6eyJBcHBNb2R1
+		bGUiOnsiZGVwZW5kZW5jaWVzIjpbXSwiZXhjbHVkZSI6W10sIm5hbWUiOiJB
+		cHBNb2R1bGUiLCJwYXRoIjoiLiIsInJlc291cmNlcyI6W3sicGF0aCI6IlJl
+		c291cmNlcyIsInJ1bGUiOiJwcm9jZXNzIn1dLCJzZXR0aW5ncyI6W10sInR5
+		cGUiOiJleGVjdXRhYmxlIn19LCJ0YXJnZXRzIjpbeyJkZXBlbmRlbmNpZXMi
+		OltdLCJleGNsdWRlIjpbXSwibmFtZSI6IkFwcE1vZHVsZSIsInBhdGgiOiIu
+		IiwicmVzb3VyY2VzIjpbeyJwYXRoIjoiUmVzb3VyY2VzIiwicnVsZSI6InBy
+		b2Nlc3MifV0sInNldHRpbmdzIjpbXSwidHlwZSI6ImV4ZWN1dGFibGUifV0s
+		InRvb2xzVmVyc2lvbiI6eyJfdmVyc2lvbiI6IjUuNS4wIn19
+		</data>
+		<key>manifestHash</key>
+		<data>
+		zxv5d5yYyVZ8xgTxGAzv07sfBrj6bO1lfnAEVNL0Hj0=
+		</data>
+		<key>schemaVersion</key>
+		<integer>3</integer>
+		<key>swiftPMVersionString</key>
+		<string>5.5.0</string>
+	</dict>
+</dict>
+</plist>
