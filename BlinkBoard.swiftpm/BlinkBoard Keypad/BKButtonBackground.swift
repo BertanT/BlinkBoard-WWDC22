@@ -14,6 +14,7 @@ extension View {
             .frame(minWidth: 25 * keySize, maxWidth: 42 * keySize, minHeight: 42)
             .background(
                 RoundedRectangle(cornerRadius: 10, style: .continuous)
+                    .foregroundColor(Color(uiColor: .systemGray6))
                     .foregroundStyle(.thickMaterial)
                     .shadow(radius: 2, x: 0, y: 2)
             )
